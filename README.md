@@ -1,8 +1,11 @@
 # Hi, I'm Dapinder Singh
+### Principal Engineer / SRE · Software Architecture & Delivery Engineering
 
-Principal Engineer working on platform architecture and software delivery. I write about infrastructure as code, deployment patterns and engineering practice, and I build small tools along the way.
+I'm an engineering leader with around 20 years of experience across software engineering, architecture and technical leadership. My work spans product engineering, cloud infrastructure and software delivery. I work at the boundary between architecture and implementation, defining technical direction while staying close enough to the code to make those decisions practical.
 
 **Website and writing:** [dapindersingh.dev](https://dapindersingh.dev)
+
+I occasionally write about software architecture, engineering practices and other things I find interesting. You'll find my writing and links to other platforms below.
 
 ## Recent writing
 
